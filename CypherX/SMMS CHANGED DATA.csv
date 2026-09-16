@@ -1,0 +1,11 @@
+record_id,asset_id,location,work_type,defect,severity,maintenance_date,duration_hr,previous occurance count,historical avg duration hr,status
+SM001,SIG001,KM 70.200,Inspection,Signal failure,Critical,12-05-2026,1,5,1,completed
+SM002,SIG002,KM 70.230,Repair,Signal fault,High,20-06-2026,2,3,1.5,completed
+SM003,SIG003,KM 70.300,Inspection,Relay issue,Medium,25-07-2026,1.5,2,1,completed
+SM004,SIG004,KM 70.350,Inspection,Cable issue,Medium,18-05-2026,1.5,3,1.5,completed
+SM005,SIG005,KM 70.400,Repair,Signal fault,High,28-06-2026,2,4,2,completed
+SM006,SIG006,KM 70.460,Inspection,Point machine issue,Critical,10-07-2026,2,9,3,completed
+SM007,SIG007,KM 70.560,Inspection,Communication fault,Low,15-07-2026,1,1,1,completed
+SM008,SIG008,KM 70.600,Repair,Signal failure,High,05-08-2026,2,2,1,completed
+SM009,SIG009,KM 70.720,Inspection,Relay issue,Medium,21-08-2026,1,2,1,completed
+SM010,SIG010,KM 70.800,Inspection,Cable deterioration,Medium,24-08-2026,1.5,2,1.5,completed

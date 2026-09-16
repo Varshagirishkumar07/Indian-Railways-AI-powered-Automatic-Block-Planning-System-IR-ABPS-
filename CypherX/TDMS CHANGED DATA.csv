@@ -1,0 +1,11 @@
+record_id,asset_id,location,work_type,defect,severity,maintenance_date,duration_hr,previous occurance hr,historical avg duration hr,status
+TD001,OHE001,KM 20.120,Inspection,OHE wear,High,14-05-2026,1.5,3,2,completed
+TD002,OHE002,KM 20.140,Repair,OHE defect,Critical,22-06-2026,2.5,7,3,completed
+TD003,OHE003,KM 20.200,Inspection,Pantograph contact wear,Medium,20-05-2026,1.5,2,1,completed
+TD004,OHE004,KM 20.400,Repair,OHE fault,High,30-06-2026,2,3,2,completed
+TD005,OHE005,KM 20.500,Inspection,Insulator issue,High,12-07-2026,1.5,1,1,completed
+TD006,OHE006,KM 21.100,Inspection,Catenary wear,Low,18-07-2026,1,1,1,completed
+TD007,OHE007,KM 21.200,Repair,OHE defect,High,07-08-2026,2,4,2,completed
+TD008,OHE008,KM 22.300,Inspection,Insulator deterioration,Critical,23-08-2026,1.5,5,2.5,completed
+TD009,OHE009,KM 22.350,Inspection,Contact wire wear,Medium,25-08-2026,1.5,2,1,completed
+TD010,OHE010,KM 23.200,Inspection,OHE alignment,Medium,27-08-2026,1,1,1,completed

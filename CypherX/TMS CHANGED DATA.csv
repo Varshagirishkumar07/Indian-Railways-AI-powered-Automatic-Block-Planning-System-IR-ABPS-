@@ -1,0 +1,11 @@
+record_id,asset_id,location,work_type,defect,severity,maintenance_date,duration_hr,previous occurance count,historical avg duration hr,status
+TMS001,TRK001,KM 30.120,Inspection,Rail crack,High,10-05-2026,2,1,2,completed
+TMS002,TRK002,KM 30.121,Repair,Rail defect,Critical,18-06-2026,3,8,3.5,completed
+TMS003,TRK003,KM 31.125,Inspection,Track wear,Medium,20-07-2026,1.5,3,1,completed
+TMS004,TRK004,KM 31.130,Inspection,Sleeper wear,Medium,15-05-2026,1.5,3,1.5,completed
+TMS005,TRK005,KM 31.200,Repair,Track defect,High,25-06-2026,2.5,5,2,completed
+TMS006,TRK006,KM 32.240,Inspection,Alignment issue,High,08-07-2026,2,5,1.5,completed
+TMS007,TRK007,KM 32.300,Inspection,Ballast issue,Low,12-07-2026,1,1,1,completed
+TMS008,TRK008,KM 33.200,Repair,Rail wear,High,02-08-2026,2.5,5,2,completed
+TMS009,TRK009,KM 34.250,Inspection,Rail crack,Critical,20-08-2026,2,8,2.5,completed
+TMS010,TRK010,KM 34.300,Inspection,Track geometry,Medium,22-08-2026,1.5,4,1.5,completed

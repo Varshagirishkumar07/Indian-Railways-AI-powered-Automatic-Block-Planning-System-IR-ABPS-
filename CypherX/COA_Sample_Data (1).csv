@@ -1,0 +1,13 @@
+coa_id,date,from_location,to_location,record_type,train_id,train_name,start_time,end_time,traffic_level,conflict_status,block_available
+COA001,14-09-2026,KM 30.121,KM 31.300,Passenger,P101,Express Passenger,21,22,Critical,Available,Yes
+COA002,14-09-2026,KM 70.230,KM 70.300,Goods,G201,Freight Goods,19,20,High,Conflict,No
+COA003,14-09-2026,KM 20.120,KM 20.200,Block Window,BLOCK_AB_01,No Train Movement,23.15,2.3,High,Available,Yes
+COA004,15-09-2026,KM 31.125,KM 31.300,Passenger,P102,Intercity Passenger,21.3,22.3,Medium,Conflict,No
+COA005,15-09-2026,KM 70.400,KM 70.800,Goods,G202,Freight Goods,22.3,23.15,High,Available,Yes
+COA006,15-09-2026,KM 32.240,KM 33.000,Block Window,BLOCK_CD_01,No Train Movement,23.3,2.3,High,Available,Yes
+COA007,16-09-2026,KM 70.460,KM 70.520,Passenger,P103,Passenger Local,20.45,21.3,Critical,Conflict,No
+COA008,16-09-2026,KM 20.400,KM 20.600,Goods,G203,Freight Goods,21.3,22.15,High,Conflict,No
+COA009,16-09-2026,KM 31.200,KM 31.600,Block Window,BLOCK_EF_01,No Train Movement,22.3,2.3,High,Available,Yes
+COA010,17-09-2026,KM 70.720,KM 70.850,Passenger,P104,Express Passenger,21,22.3,Medium,Conflict,No
+COA011,17-09-2026,KM 22.300,KM 22.500,Goods,G204,Freight Goods,22.3,23.15,Critical,Conflict,No
+COA012,17-09-2026,KM 34.300,KM 34.500,Block Window,BLOCK_GH_01,No Train Movement,23.3,3,Medium,Available,Yes
